@@ -1,2 +1,2 @@
-# calculadora_react
+# calculator_react
 Calculator made in react
